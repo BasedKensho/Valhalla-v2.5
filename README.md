@@ -1,2 +1,2 @@
-# Valhalla-v2.5
-Version 2.5 of the Valhalla Website
+# valhalla-2.0
+Website for Valhalla 2.0
